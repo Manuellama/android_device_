@@ -92,7 +92,7 @@ PRODUCT_PACKAGES := \
     whisperd \
     Torch \
     LiveWallpapersPicker \
-    StingrayParts
+#    StingrayParts
 
 PRODUCT_CHARACTERISTICS := tablet
 
